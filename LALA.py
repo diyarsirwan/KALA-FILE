@@ -1,0 +1,2 @@
+import LALA
+LALA.aprovel()
